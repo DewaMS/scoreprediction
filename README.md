@@ -5,7 +5,7 @@ This datasets are fictional and used for educational purposes only.
 The original dataset generator creator is Mr. Royce Kimmons and the expanded versions are created by Arnhem
 the link source of data https://www.kaggle.com/datasets/desalegngeb/students-exam-scores
 
-#Data Dictionary (column description)  
+**Data Dictionary (column description)**  
 Gender: Gender of the student (male/female)  
 EthnicGroup: Ethnic group of the student (group A to E)  
 ParentEduc: Parent(s) education background (from some_highschool to master's degree)  
